@@ -86,9 +86,9 @@
             @endrole
             <a href="{{ url('home') }}" class="logo">
                 <!-- mini logo for sidebar mini 50x50 pixels -->
-                <span class="logo-mini"><b>C</b>A</span>
+                <span class="logo-mini"><b>S</b>NPK</span>
                 <!-- logo for regular state and mobile devices -->
-                <span class="logo-lg"><b>Cappucinno</b>Application</span>
+                <span class="logo-lg"><b>SINOPAK</b></span>
             </a>
             @endif
 
